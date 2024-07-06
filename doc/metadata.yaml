@@ -1,6 +1,6 @@
-description: Malfunction construction.
+description: FET based H-bridge
 github_branch: HB2FET01A
-github_description: Malfunction construction.
+github_description: FET based H-bridge
 github_repo: HB2FET01
 github_url: https://github.com/mlab-modules/HB2FET01
 homepage: false
@@ -10,4 +10,4 @@ mark: 50
 status: 4
 tags: []
 title: HB2FET01
-updated: '2024-07-06T18:30:36.428651+00:00'
+updated: '2024-07-06T18:31:32.593796+00:00'
