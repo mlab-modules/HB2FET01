@@ -6,20 +6,6 @@
 <!--- Tags:imported: ---> 
 <!--- Ust:None: ---> 
 <!--- Name:HB2FET01A: --->
-#HB2FET01A 
-<!--- LongName --->
-FET Bridge
-<!--- ELongName ---> 
+# HB2FET01A  - FET H-Bridge
 
-<!--- Lead --->
 Malfunction construction.
-<!--- ELead ---> 
-
-
-​
-​
-<!--- Description --->
-<!--- EDescription --->
-<!--- Content --->
-<!--- EContent --->
-            
